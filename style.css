@@ -1,0 +1,403 @@
+#hotmeals{
+    width:250px;
+    height: 40px;
+    font-family: Qwigley;
+    font-weight: 400px;
+    font-size: 50px;
+    line-height: 50px;
+    color: #ffb30e;
+}
+#address{
+    width: 500px;
+    height: 40px;
+    font-family: Source Sans Pro;
+    font-weight: 700px;
+    font-size: 12px;
+    line-height: 50px;
+    color: #424242;
+                      
+}
+
+.search{
+    width: 50px;
+    height: 40px;
+    line-height: 20px;
+    font-size: 13px;
+    margin-top: 20px; 
+    
+    
+}
+#login{
+    width: 80px;
+    height: 30px;
+    line-height: 15px;
+    font-size: 15px;
+ 
+}
+
+#user{
+    height: 15px;
+}
+
+.fillAddress{
+    width: 100%;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+#find{
+    
+    background-color: #fdbe35;
+}
+
+#searchLogin{
+    width: 300px;  
+    height: 40px;
+    margin-top: 20px;
+       
+}
+#food{
+    width: 330px;
+    height: 270px;
+    margin-top: 100px;
+
+}
+#findMap{
+    height: 30px;
+    position: absolute;
+    padding-top: 12px;
+    padding-left: 20px;
+}
+.inputIcons{
+    width: 300px;
+    height: 30px;
+
+}
+.fav{
+    margin-left: 50px;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+
+}
+.findFood{
+    display: flex;
+    flex-direction:column;
+    background-color: #ffffff;
+    flex-wrap: wrap;
+}
+.inputAddress{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 25px;
+    flex-wrap: wrap;
+ }
+ .button{
+    width: 400px;
+    height: 80px;
+    margin-top: 15px;
+    margin-left: 10px;
+ }
+ .findNearFood{
+    width: 150px;
+    height: 35px;
+    background-image: linear-gradient(#ff7a7a ,#f65900 );
+    border-color: #ffffff;
+    border-bottom: #f5f5f5;
+    border-right: #f5f5f5;
+    color: #f5f5f5;
+    margin-left: 30px;
+    border-radius: 10px;
+
+ }
+ .look{
+    /* width: 400px; */
+    height: 50px;
+    font-family: Qwigley;
+    font-weight: 400px;
+    font-size: 35px;
+    line-height: 35px;
+    color: #ffffff;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+}
+.few{
+    /* width: 500px; */
+    height: 20px;
+    font-family: Source Sans Pro;
+    font-weight: 400px;
+    font-size: 15px;
+    line-height: 15px;
+    color: #504f4f;
+    margin-bottom: 20px;
+}
+.inputField{
+    width: 100%;
+    height: 40px;
+    background-color: #f5f5f5;
+    border-bottom: #f5f5f5;
+    border-right: white;
+    border-left: #f5f5f5;
+    border-top: #f5f5f5;
+    border-radius: 10px;
+    margin-left: 10px;
+    
+}
+#delivery{
+    color: rgb(255, 102, 0);
+    border-radius: 5px;
+    background-color: rgb(242, 239, 238);
+    border-color: #ffffff;
+    border-bottom: #ffffff;
+    border-right: #ffffff;
+    font-weight: bold;
+    height: 35px;
+}
+
+#cardDelivery{
+    border: none !important;
+}
+ 
+.pickup{
+   border-color:white;
+   background-color: #ffffff;
+   border-bottom: #ffffff;
+   border-right: #ffffff;
+}
+
+.card{
+    margin-top: 60px;
+}
+
+.textWork{
+    margin-top: 50px;
+    
+}
+
+#imgwork{
+
+    width: 100px;
+    height: 100px;
+    
+}
+#work{
+    margin-top: 30px;
+    border: 1px solid grey;
+    column-rule: 2px solid black;
+             
+}
+
+
+.textWork{
+    font-size: 43px;
+    font-family: source sans pro;
+    font-weight: 700px;
+    line-height: 20px;
+    color: #f17228;
+    text-align: center;
+
+}
+.imgText{
+    font-size: 25px;
+    font-family: source sans pro;
+    font-weight: 700px;
+    line-height: 30px;
+    color: #f17228;
+    margin-top: 40px;
+    width: 50px;
+    padding-left: 10px;
+        
+}
+.column{
+    width: 300px;
+    height: 200px;
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: center;
+   
+}
+#cardtext{
+    text-align: center;
+    font-size: 22px;
+    font-weight: 700px;
+    font-family: source sans pro;
+    color: #424242;
+    line-height: 26px;
+}
+#searchcard{
+    border: none !important;
+    background-color:rgb(242, 238, 238) !important;
+    padding-bottom: 50px;
+}
+.searchText{
+    margin-left: 50px;
+    margin-top: 50px;
+    padding-top: 50px;
+    font-size: 43px;
+    font-family: source sans pro;
+    font-weight: 700px;
+    line-height: 48px;
+    color: #212121;
+}
+
+#foodItems{
+    background-color:rgb(242, 238, 238) ;
+}
+
+#diffen{
+    margin-top: 50px;
+}
+
+#diffen-img{
+    height: 380px;
+    width: 500px;
+    padding: 50px;
+
+}
+
+#diffen-text{
+    margin-top: 70px;
+    margin-left: 150px;
+    width: 200px;
+}
+.best{
+    font-size: 43px;
+    font-family: source sans pro;
+    line-height: 48px;
+    color: #353535;
+    font-weight: 900px;
+    }
+
+.enjoy{
+    font-size: 12px;
+    font-family: source sans pro;
+    font-weight: 600px;
+    line-height: 12px;
+    color: #616161;
+    padding-top: 10px;
+}
+
+#order{
+    background-color: hwb(21 6% 0%);
+    font-size: 15px;
+    font-family: source sans pro;
+    font-weight: 900px;
+    line-height: 18px;
+    color:#ffffff;
+    width: 100%;
+    margin-top: 50px;
+}
+
+#btnorder{
+    background-color: #de6214;
+    width: 100%;
+    }
+
+ #cardorder{
+    border: none !important;
+ }   
+ #popularItems{
+    font-family: source sans pro;
+    font-weight: 700px;
+    line-height: 15px;
+    color:#424242;
+    font-size: 15px;
+
+ }
+ #end{
+    background-color:rgb(32, 32, 32);
+    margin-top: 50px;
+ }
+
+ #endColumn{
+    margin-top: 80px;
+    width: 130px;
+    height: 250px;
+    text-align: left;
+    }
+
+
+ .titleEnd{
+    margin-bottom: 20px;
+    font-family: source sans pro;
+    font-weight: 700px;
+    line-height: 22px;
+    color:#ffffff;
+    font-size: 22px;
+ }
+ .listEnd{
+    font-family: source sans pro;
+    font-weight: 400px;
+    line-height: 14px;
+    color:#f5f5f5;
+    font-size: 14px;
+    margin-bottom: 10px;
+    
+ }
+ .divlist{
+    display: flex;
+    flex-flow: column;
+ }
+ .inputend{
+        height: 40px;
+        background-color: rgb(209, 203, 203);
+        border-bottom: rgb(209, 203, 203);
+        border-right: rgb(209, 203, 203);
+        border-left: rgb(209, 203, 203);
+        border-top: rgb(209, 203, 203);
+        border-radius: 10px;
+        width: 100%;
+        
+ }
+ .btnend{
+    display: flex;
+    flex-flow: row wrap;
+    margin-top: 30px;
+    text-align: left;
+     }
+ .endfollow{
+    margin-left: 150px;
+    margin-top: 80px;
+    display: flex;
+    flex-flow: column;
+ }
+
+ .textfollow{
+    font-family: source sans pro;
+    font-weight: 700px;
+    line-height: 18px;
+    color:#f5f5f5;
+    font-size: 18px;
+    text-align: left;
+    margin-top: 10px;
+    
+ }
+ .imgfollow{
+       margin-top: 10px;
+ }
+ .offer{
+    font-family: source sans pro;
+    font-weight: 700px;
+    line-height: 18px;
+    color:#bbbbbb;
+    font-size: 18px;
+    text-align: left;
+    margin-top: 10px;
+
+ }
+ .imgend{
+    text-align: left;
+    margin-left: 10px;
+ }
+.line{
+    height: 10px;
+    background:gray ;
+}
+#subscribe{
+    margin-left: 0px;
+    height: 40px;
+    
+    
+}
